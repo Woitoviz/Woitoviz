@@ -1,9 +1,12 @@
 ## Olá!! Sou Ailton Pereira Woitoviz  👋
 
 
-- 🔭 Atualmente não estou trabalhando 
-- 🌱 Estou cursando ADS e fazendo curso de Front-end
-- 😄 Pronouns: Ele/Dele
+- 🔭 Estudante de Análise e Desenvolvimento de Sistemas empenhado em aprimorar minhas habilidades na área de desenvolvimento Front-end.
+
+-🌱 Atualmente, estou concentrado em aprofundar meus conhecimentos em JavaScript, HTML e CSS.
+
+-😄 Pronomes: Ele/Dele.
+
 <div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Woitoviz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
